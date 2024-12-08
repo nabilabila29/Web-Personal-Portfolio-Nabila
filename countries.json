@@ -1,0 +1,40 @@
+[
+    {
+        "@context": "https://schema.org",
+        "name": "Nabila",
+        "telephone": "0882-1227-5196",
+        "studentof": {
+            "@type": "collageOrUniversity",
+            "name": "Universitas Yatsi Madani",
+            "address": {
+                "@type": "PostalAddress",
+                "StreetAddress": "Jl. Aria Santika No.40A, RT.005/RW.011, Margasari, Kec. Karawaci, Kota Tangerang, Banten 15114",
+                "AddressLocality": "Tangerang",
+                "AddressRegion": "Banten",
+                "PostalCode": "15114",
+                "AddressCountry": "Indonesia"
+            },
+        "telephone" : "(021) 55726558",
+        "OpenHours": "08.00 - 17.00 WIB"
+        },
+        "identifier": {
+            "@type": "PropertyVelue",
+            "propertyID": "NIM",
+            "value": "23050445"
+        },
+        "memberof": {
+            "@type": "Organization",
+            "name": "Ilmu Komputer (B) Tigaraksa, Fakultas Teknologi Dan Bisnis"
+        },
+        "hascourse": [
+            {
+                "@type": "Person",
+                "name": "Ihsan Maulana S.Kom,. M.Ti"
+            },
+            {
+                "@type": "Course",
+                "name": "Jaringan Sematik"
+            }
+        ]
+    }
+]
